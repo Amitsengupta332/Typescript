@@ -16,3 +16,4 @@ var canEdit = function (role) {
 };
 var isEditPermissable = canEdit(UserRoles.Admin);
 console.log(isEditPermissable);
+clg
